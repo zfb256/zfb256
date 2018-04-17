@@ -9,3 +9,5 @@ import easygui
 ax=5
 
 easygui.msgbox(ax)
+
+print(ax)
